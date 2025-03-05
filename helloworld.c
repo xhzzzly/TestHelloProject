@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main(void)
+int mian(void)
 {
-    print("Hello World!");
+    printf("Hello World!");
 
     return 0;
 }
